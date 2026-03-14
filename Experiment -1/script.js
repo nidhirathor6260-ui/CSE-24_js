@@ -31,6 +31,6 @@ function calculateResult(){
 
 
     let result = document.getElementById("result").innerHTML= "Total Marks = " + total + "<br/>" + "Average Marks = " + avg + "<br/>"
-                    +"Grade " + grade + "Result = " + r ;
+                    +"Grade " + grade + "<br/>" +  "Result = " + r ;
 
 }
