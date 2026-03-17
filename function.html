@@ -9,7 +9,7 @@
     <button onclick="myfunction()">Try it</button>
 
     <input type="button" onclick="sayHello('Zara', 7)" value="Say Hello">
-
+    
     <script>
         function myfunction(){
             alert("Hello World");
@@ -22,8 +22,14 @@
        function multiply(a,b){
         return a*b;
        }
-        let result = multiply(45, 360);
-       document.write(result);
+
+       let result = multiply(45, 360);
+       document.write(result , "<br/>"); 
+
+       let add = (x,y) => { return x+y;};
+       document.write( "addition of 3 and 2 is   " , add(2,3));
+
+
     </script>
 </body>
 </html>
