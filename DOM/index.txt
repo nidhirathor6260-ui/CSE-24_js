@@ -1,0 +1,13 @@
+JS can change all the html element in the page.
+Js can change all the html alltributes in the page.
+JS can change css styles in the page.
+JS can remove existing html element and attributes.
+JS can react to the all the existing java script events.
+JS can create the new HTML element.
+
+
+window events 
+-onload
+-onunload
+-onresize
+
